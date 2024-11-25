@@ -13,5 +13,7 @@ public static void main(String[] args)
                  {                     //and multiplication also start from 1 therfore it printed 2 times to avoid this we multiply from 2 
         System.out.println(x*y);
     }
-}
+    sc.close();
+ 
+ }
  }
