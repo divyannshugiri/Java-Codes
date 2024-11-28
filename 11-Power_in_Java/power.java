@@ -4,7 +4,7 @@ public class power
 {
     public static void main(String args[])
     {
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         
         System.out.println("Enter the Base");
 
@@ -18,7 +18,9 @@ public class power
        
         System.out.println("The Power is "+result);
 
-
+        sc.close();
     }
+   
+}   
     
-}
+
