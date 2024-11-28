@@ -1,8 +1,8 @@
 // Reverse A String In Java
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
-public class RevString 
+public class revString 
 {
     public static void main(String args[])
      {
