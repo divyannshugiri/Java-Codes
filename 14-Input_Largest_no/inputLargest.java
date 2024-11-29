@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class inputLargest {
-                                                  //  loop while, input, num>max,max=num,enters 0 ,terminate,print max
+                                                                       //  loop while, input, num>max,max=num,enters 0 ,terminate,print max
     public static void main(String[] args) {                                     
         
         Scanner sc =new Scanner(System.in);
