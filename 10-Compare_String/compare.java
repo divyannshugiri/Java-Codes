@@ -21,3 +21,9 @@ public class compare
 
     }
 }
+
+//In Java, the .compareTo() method is commonly used to compare two objects of the same type, particularly strings or numbers.
+
+//it returns an integer value that indicates the relationship between the two objects.
+
+// 0 == True                       1 == False
