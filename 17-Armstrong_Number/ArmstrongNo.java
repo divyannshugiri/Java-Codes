@@ -35,7 +35,7 @@ while(z>0)                                         // to check digits in a numbe
    }
 
 
-   if(sum==n)
+   if(sum==n)                                  // checking if sum is equal to number
    {
       System.out.println("It is a Armstrong Number");
    }
