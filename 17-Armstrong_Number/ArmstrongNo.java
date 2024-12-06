@@ -43,5 +43,6 @@ while(z>0)                                         // to check digits in a numbe
    {
       System.out.println("It is not a Armstrong Number");
    }
+   sc.close();
 }
 }
