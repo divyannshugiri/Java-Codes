@@ -22,3 +22,15 @@ public class currency {
     
     }
 }
+
+/*"Amount in usd : %.2f\n": This is the format string that specifies how the output should look.
+
+%.2f: This is the format specifier.
+
+%: Indicates that we are using a format specifier.
+
+.2: This tells Java to display 2 decimal places.
+
+f: This tells Java that the value is a floating-point number (float or double).
+
+\n: This is a newline character, which ensures that the output moves to the next line after printing. */
