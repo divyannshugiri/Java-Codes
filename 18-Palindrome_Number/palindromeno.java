@@ -1,3 +1,5 @@
+// Palindrome Number =  if a original no is reverse and it is still the original no then it will be a palindrome no.
+
 import java.util.Scanner;
 
 public class palindromeno
