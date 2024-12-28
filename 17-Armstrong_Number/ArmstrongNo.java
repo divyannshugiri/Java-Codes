@@ -8,11 +8,11 @@ public class ArmstrongNo
  int z,count=0,digit,i;
  System.out.println("Enter a Number");
  int n =sc.nextInt();
- z=n;
+ z=n;                                              // store original number
 while(z>0)                                         // to check digits in a number 
  {
    count=count+1;                                  
-   z=z/10;
+   z=z/10;                                        // remove the last no                            
   
  }  
 
