@@ -10,7 +10,7 @@ public static void main(String[] args)
 
     String replaced = str.replace("World","Divyanshu");
     
-    System.out.println("String Given is : "+str);
+    System.out.println("String Given is   :  "+str);
     System.out.println("Replace String is : "+replaced);
     
 }
