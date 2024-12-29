@@ -11,7 +11,7 @@ public class revString
         
         int leng = name.length();     //  it will return length of name which is 9
 
-        String rev = "";            
+       String rev = "";            
 
         
         for (int i = leng - 1; i >= 0; i--)        // i=9-1    9>=0    9-- =8                1-1         1>0       1--    =0
