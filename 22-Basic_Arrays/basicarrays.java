@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class basicarrays
 {
     public static void main(String[] args) {
@@ -11,3 +11,4 @@ public class basicarrays
         }
     }
 }
+
