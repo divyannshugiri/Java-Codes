@@ -1,4 +1,4 @@
-
+// Linear Search Array
 
 public class linearsearcharr
 {
