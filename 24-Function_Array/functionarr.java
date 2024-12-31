@@ -1,4 +1,4 @@
-//import java.util.*;
+// Array as Function Arguments
 
 public class functionarr
 {
