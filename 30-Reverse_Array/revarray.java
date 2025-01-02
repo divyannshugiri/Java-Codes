@@ -25,7 +25,7 @@ public class revarray {
 
         for(int i=0;i<number.length;i++)
         {
-            System.out.println(i +"");
+            System.out.println(number[i] +"");
         }
         System.out.println();
 
