@@ -29,8 +29,6 @@ public class revarray {
         }
         System.out.println();
 
-
-
     }
     
 }
