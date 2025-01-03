@@ -18,7 +18,7 @@ public class squarep {
     public static void main(String[] args) {
       
       pattern(4);                                // if we not use static in method then 
-    
+      pattern(4);
     
     
 }
