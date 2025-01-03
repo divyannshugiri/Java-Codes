@@ -13,7 +13,7 @@ public class squarep {
 
 
     public static void main(String[] args) {
-      int line;
+      
       pattern(4);
     
     }
