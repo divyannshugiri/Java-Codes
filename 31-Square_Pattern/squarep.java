@@ -3,7 +3,7 @@
 public class squarep {
 
     public static int pattern(int line){
-       for (line=1;line<=4;line++)
+       for (int i=1;i<=line;i++)
        {
         System.out.println("****");
         
@@ -13,8 +13,8 @@ public class squarep {
 
 
     public static void main(String[] args) {
-
-        pattern(line);
+      int line=4;
+      pattern(line);
     
     }
     
