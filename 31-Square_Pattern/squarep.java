@@ -1,4 +1,7 @@
-
+/****
+ ****
+ ****
+ ****/
 
 public class squarep {
 
@@ -10,12 +13,13 @@ public class squarep {
        }
        return line;
     }
-
+  
 
     public static void main(String[] args) {
       
       pattern(4);
     
-    }
     
+    
+}
 }
