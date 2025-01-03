@@ -1,3 +1,14 @@
+/*A string palindrome is a sequence of characters (a string) that reads the same forward and backward, ignoring spaces, punctuation, and case sensitivity.
+
+Examples of string palindromes:
+"racecar"
+"madam"
+"level" 
+
+*/
+
+
+
 import java.util.Scanner;
 
 public class strpal
