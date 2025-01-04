@@ -2,9 +2,9 @@
 
 public class breakuse {
 
-    public static int breaks(int i){
+    public static void breaks(){
 
-        for(i=1;i<=50;i++)
+        for(int i=1;i<=50;i++)
         {
             if(i == 22){
               
@@ -14,11 +14,11 @@ public class breakuse {
             System.out.println(i);
            
         }
-  return i;
+  
 }
     public static void main(String[] args) {
-        int i=1;
-        breaks(i);
+        
+        breaks();
     }
     
 }
