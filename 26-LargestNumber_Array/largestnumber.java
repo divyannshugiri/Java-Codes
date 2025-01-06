@@ -24,8 +24,6 @@ public class largestnumber{
 public static void main(String[] args) {
     int number[] = {2,1,6,5,4};
 
-
-    
     System.out.println("Largest Number is : "+getlargest(number));
 
 }
