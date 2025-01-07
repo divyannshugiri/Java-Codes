@@ -14,14 +14,17 @@ public class linearsearcharr
         }
         return -1;
     }
-    public static void main(String[] args) {
+    public static void main(String[] args)
+     {
         int numbers[] = {20,29,35,44,47,50,31,22,39,19};
+        
         int key = 22;
 
         
         int index = linearsearch(numbers,key);
 
-        if(index == -1){
+        if(index == -1)
+        {
             System.out.println("Not Found");
         }
         else{
