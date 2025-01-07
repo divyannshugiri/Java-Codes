@@ -18,7 +18,9 @@ public static void main(String[] args) {
         z=z/10;               //123= 123/10=0  /count+1      12/10=0    /count+1          1/10=0    /count+1       =3
        
     }
+
     System.out.println("No of Digits are: "+count);
+    
     sc.close();
 
 
