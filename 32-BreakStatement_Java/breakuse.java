@@ -1,4 +1,4 @@
-//Break :- It is use to exit the loop. 
+//Break Staement :- It is use to exit the loop. 
 
 public class breakuse {
 

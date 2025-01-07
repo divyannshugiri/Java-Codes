@@ -29,6 +29,7 @@ public class inputLargest {
         }
            
            System.out.println("Largest No from the input given is: "+max);      
+          
            sc.close();
         }
 
