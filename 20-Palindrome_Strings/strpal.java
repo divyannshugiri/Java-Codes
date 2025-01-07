@@ -7,8 +7,6 @@ Examples of string palindromes:
 
 */
 
-
-
 import java.util.Scanner;
 
 public class strpal
