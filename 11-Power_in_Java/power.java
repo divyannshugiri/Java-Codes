@@ -19,6 +19,7 @@ public class power
       System.out.println("The Power is "+result);
 
         sc.close();
+    
     }
    
 }   
