@@ -20,6 +20,7 @@ public class inputsum2 {
            
                 }
             System.out.println(+sump);
+          
             sc.close();
     }
 
