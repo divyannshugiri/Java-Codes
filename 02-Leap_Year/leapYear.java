@@ -28,5 +28,5 @@ with the astronomical year.In a normal year,February has 28 days, but in a leap 
 //Explanation of the Code:
 
 //year % 4 == 0: First, check if the year is divisible by 4,then it is a leap year.
-//year % 100 != 0: If it is not divisible by 100, it is not a leap year.
+//year % 100 != 0: If it is divisible by 100, it is not a leap year.
 //year % 400 == 0: If the year is also divisible by 400, then it is a leap year.
