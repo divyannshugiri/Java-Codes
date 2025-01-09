@@ -14,8 +14,11 @@ public static void main(String[] args)
     int b=sc.nextInt();
 
     int c=a+b;
-    System.out.println("Result is : "+c);
-    sc.close();
+   
+ System.out.println("Result is : "+c);
+    
+sc.close();
+
 }
 
 }
