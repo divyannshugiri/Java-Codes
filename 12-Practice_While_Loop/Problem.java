@@ -22,3 +22,5 @@ public class Problem
         sc.close();
     }
 }
+
+//In Java, a while loop is used to execute a block of code repeatedly as long as a specified condition remains true.
