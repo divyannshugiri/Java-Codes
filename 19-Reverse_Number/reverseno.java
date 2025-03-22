@@ -16,7 +16,7 @@ public class reverseno
 
         while(no>0)
         {
-            int digit=no%10;  // remove last digit
+            int digit=no%10;  // get last digit
 
             rev=rev*10+digit;  // add the digit to reverse no
 
