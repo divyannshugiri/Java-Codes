@@ -1,4 +1,4 @@
-
+//how to print array of string
 class stringArray {
     public static void main(String[] args) {
        String[] arr = new String[3];
