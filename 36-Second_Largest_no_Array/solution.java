@@ -14,8 +14,8 @@ class Solution {
                 return arr[i];
             }
         }
-        return -1;                    // if the second largest eleement dont exist then return -1
-    }
+        return -1;                    // if the second largest element dont exist then return -1
+    }                                // class ends
     public static void main(String[] args)
     {
         int[] arr ={12,35,1,10,34,1};
