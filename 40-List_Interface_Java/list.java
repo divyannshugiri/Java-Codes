@@ -6,8 +6,8 @@ public class list {
 
     public static void main(String[] args)
      {
-    List<Integer> numbers =new ArrayList<>();
-    List<Integer> numbers1 =new ArrayList<>();
+    ArrayList<Integer> numbers =new ArrayList<>();
+    ArrayList<Integer> numbers1 =new ArrayList<>();
 
        numbers.add(21);
        numbers.add(22);
@@ -36,6 +36,12 @@ public class list {
         numbers1.addAll(numbers);
         System.out.println(numbers1);
 
+       System.out.println(  numbers.size());
+
+       
+     System.out.println(numbers.contains(32));
+      
+       
 
 
     }
