@@ -59,6 +59,15 @@ For example:
 
 (Here, 153 has 3 digits, and the sum of the cubes of its digits is 153.)
 
+153   
+1. CHECK THE COUNT OF NO 
+2. GET THE LAST NO WHICH IS 3
+3. PERFORM MULTIPICATION
+4. ADD IT TO SUM
+5. REMOVE THE LAST ELEMENT 3
+6. AGAIN PERFROM THE SAME PROCESS FOR 5
+7.check if the number is equal to sum
+8. print if it is armstrong np or not
 
 
 */
