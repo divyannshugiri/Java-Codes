@@ -1,4 +1,4 @@
-public class SameelementArray {
+class SameelementArray {
 
   static  public boolean findSameno(int[] nums)
     {
@@ -9,7 +9,8 @@ public class SameelementArray {
       {
         for(int j=i+1;j<n;j++)
         {
-        while (nums[i] == nums[j]) {
+        while (nums[i] == nums[j]) // condition : if the nums[i] has same element as in  nums[j]    return true
+        {
             return true;
         }
         
