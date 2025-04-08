@@ -1,6 +1,7 @@
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Collections;
 
 public class list {
 
@@ -29,7 +30,7 @@ public class list {
        int changeElement=numbers.set(1,32);
        System.out.println(changeElement);
 
-        numbers.add(33);
+        numbers.add(19);
 
         System.out.println(numbers);
 
@@ -40,6 +41,10 @@ public class list {
 
        
      System.out.println(numbers.contains(32));
+
+     Collections.sort(numbers);
+
+     System.out.println(numbers);
       
        
 
