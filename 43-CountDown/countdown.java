@@ -13,5 +13,6 @@ public class countdown
         
     }
      System.out.println("HAPPY NEW YEAR");
+     sc.close();
     }
 }
