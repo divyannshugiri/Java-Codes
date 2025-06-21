@@ -30,7 +30,7 @@ public class bill {
         System.out.println("Total price ="+ totalPrice);
         System.out.println("ENJOY THE SHOW!!!");
 
-        
+        sc.close();
 
 
     }
