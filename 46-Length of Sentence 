@@ -1,5 +1,6 @@
 class demo
-
+{
+public static void main(String[] args)
 
 String sentence = "Java is very easy to learn";
 
