@@ -1,1 +1,18 @@
-.
+// length of sentence
+
+String sentence = "Java is very easy to learn";
+
+int count = 0;
+boolean isWord = false;
+
+for (int i = 0; i < sentence.length(); i++) {
+    char ch = sentence.charAt(i);
+
+    if (ch != ' ' && !isWord) {
+        count++;
+        isWord = true;
+    } 
+    else if (ch == ' ') {
+        isWord = false;
+    }
+}.
